@@ -14,7 +14,7 @@
 
 아래는 Hello world를 출력하는 C++ 코드입니다.
 
-'''cpp
+```cpp
 #include <iostream>
 
 using namespace std;
@@ -25,8 +25,10 @@ int main()
   return 0;
 }
 
-'''
+```
 ----------------------------------------------------------------------
 | C++11 | C++14 | C++17 | C++20 |
 | :--: | :--: | :--: | :--: |
 | auto | auto | auto | auto |
+
+[IT Computer Homepage] http://www.it.jbnu.ac.kr
